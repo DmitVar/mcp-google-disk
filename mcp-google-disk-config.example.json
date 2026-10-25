@@ -1,0 +1,12 @@
+{
+  "google": {
+    "client_id": "your-client-id.apps.googleusercontent.com",
+    "client_secret": "your-client-secret",
+    "refresh_token": "your-refresh-token",
+    "scopes": ["https://www.googleapis.com/auth/drive"]
+  },
+  "server": {
+    "name": "mcp-google-disk",
+    "version": "1.0.0"
+  }
+}
